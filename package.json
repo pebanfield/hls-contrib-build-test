@@ -30,6 +30,6 @@
     "grunt-browserify": "^5.0.0",
     "shim": "^0.6.0",
     "videojs": "^1.0.0",
-    "videojs-contrib-hls": "^5.4.1"
+    "videojs-contrib-hls": "^v5.5.0"
   }
 }
